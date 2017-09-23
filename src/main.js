@@ -7,7 +7,8 @@ import 'element-ui/lib/theme-default/index.css'
 import App from './App'
 import router from './router'
 
-Vue.use(ElementUI, vueResurce)
+Vue.use(ElementUI)
+Vue.use(vueResurce)
 
 Vue.config.productionTip = false
 

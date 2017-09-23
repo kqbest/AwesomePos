@@ -3,7 +3,6 @@
     <!--左侧导航-->
     <leftNav></leftNav>
     <!--左侧导航-->
-
     <div class="main">
       <router-view></router-view>
     </div>

@@ -41,7 +41,7 @@
     width: 5%;
     height: 100%;
     color: #fff;
-    font-size: 10px;
+    font-size: 14px;
     background-color: #1D8ce0;
   }
   .iconfont{
